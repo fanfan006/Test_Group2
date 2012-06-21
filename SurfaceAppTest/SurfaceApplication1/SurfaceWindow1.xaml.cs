@@ -30,6 +30,8 @@ namespace SurfaceApplication1
         {
             InitializeComponent();
 
+            //hello
+
             // Add handlers for window availability events
             AddWindowAvailabilityHandlers();
         }
